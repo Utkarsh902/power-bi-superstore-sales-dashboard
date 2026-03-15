@@ -11,7 +11,7 @@ The dashboard helps analyze sales performance, profit trends, and regional distr
 - Track monthly sales and profit trends
 - Provide data-driven insights through visualization
 
-  🛠 Tech Stack
+🛠 Tech Stack
 - Power BI Desktop
 - Microsoft Excel / CSV Dataset
 - Data Visualization
